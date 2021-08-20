@@ -1,8 +1,9 @@
-*{
+*{  
 	margin: 0;
 	padding: 0;
 }
 .khoi1{
+	
 	background-color: #FCDB00;
 	width: 1350px;
 	height: 900px;
@@ -12,34 +13,34 @@
 .vantay{
 	display: flex;
 	flex-direction: 'row';
-	 margin-left: 150px;
+	padding-left: 150px;
 	padding-top: 80px;}
 .vantay b{
 	margin-left: 10px;
 	font-size: 30px;}
 .vantay a{
 	margin-left: 280px;
+	margin-right: 5px;
 	text-decoration: none;
 	color: black;
 	font-family: Myriad Pro;
 	font-size: 22px;}
 .vantay img{
-	width: 40px;}
-
-
+	width: 42px;}
 .ipad{
-	width: 312px;
+
+	width: 290px;
 	height: 440px;
 	float: right;
-	margin-right: 100px;}
+	margin-right: 250px;}
  .khoi1b p {
       width: 350px;
-	font-size: 22px;
+	font-size: 32px;
 	font-family: Myriad Pro;
 	margin-top: 150px;
 	margin-left: 150px;}
 .khoi1b h1{
-	font-size: 16px;
+	font-size: 20px;
 	font-family: Myriad Pro;
 	margin-left: 150px;
 	color: #313841;}
@@ -47,40 +48,20 @@
 	font-size:16px;
 	margin-left: 150px;
 	color: #8d8144;}
-.chu1{
-	display: flex;
-	flex-direction: 'row';
-	text-decoration: none;
-	color: black;
-	font-weight: bold;
-	font-family: Myriad Pro;}
-	
-.chu11{
-	text-decoration: none;
-	color: black;
-	font-size: 22px;
-	margin-left: 850px;
-	font-family: Myriad Pro;
-	margin-top: 5px;}
-.chu11a{
-	color: black;
-	font-size: 22px;
-	margin-left: 30px;
-	text-decoration: none;
-	color: black;}
-.chu11b{
-	font-size: 22px;
-	margin-left: 30px;
-	text-decoration: none;
-	color: black;}
+
 .hdh{
 	display: flex;
-	letter-spacing: 1px;
 	flex-direction: 'row';
-	margin-left: 250px;	}
+	margin-left: 240px;	}
 .hdh1{
-	margin-top: 25px;
+	margin-top: 50px;
 	margin-left: 150px;}
+.hdh2 {
+	margin-left: 40px;
+}
+.hdh3{
+	margin-left: 40px;
+}
 .khoi2{
 	background-color: #FFFFFF;
 	font-family:Myriad Pro ;
@@ -99,13 +80,13 @@
 	color: #797c81;
 	font-size: 20px;}
 .khoi2b{
-	margin-left: 100px;
+	margin-left: 120px;
 	margin-top: 100px;
 	display: inline-block;}
 .khoi2b1{
 	width: 350px;
 	height: 120px;
-	margin-right: 20px;
+	margin-right: 30px;
 	margin-top: 30px;
 	box-sizing: border-box;
 	overflow: hidden;
@@ -127,7 +108,7 @@
 
        background-color: #010101 ;
        width: 1350px;
-       height: 700px;}
+       height: 900px;}
 .khoi31{
 	color: #fcdb00;
        font-family:Myriad Pro;
